@@ -1,4 +1,6 @@
 ---
-title: test
+title: What a Week
 ---
-here is my first post. I hope it looks really nice!
+First weeks are always hectic. This one was no different.
+
+<a href="http://google.com"> clikc me! </a>
