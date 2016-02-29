@@ -8,7 +8,7 @@ Since the first midterm is this week, I spent the last week preparing for it. I 
 
 ## What is blocking you?  
 
-This past week we did not have an active assignment. Because of this, there was nothing that could have blocked my progress. With that being said it would be nice to have a list of topics that will be covered on the exam.  
+This past week we did not have an active assignment. Because of this, there was nothing that could have blocked my progress.  
 
 ## What will you do next week?  
 
